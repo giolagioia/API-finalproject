@@ -1,5 +1,5 @@
-##Prova finale di Algoritmi e Principi dell'Informatica
-# Voto 30L/30 
+# Prova finale di Algoritmi e Principi dell'Informatica
+## Voto 30L/30 
 Si consideri un’autostrada descritta come una sequenza di stazioni di servizio. Ogni stazione di servizio si trova ad una distanza dall’inizio dell’autostrada espressa in chilometri da un numero intero positivo o nullo. Non esistono due stazioni di servizio aventi la stessa distanza: ogni stazione di servizio è quindi univocamente identificata dalla sua distanza dall’inizio dell’autostrada.
 
 Ogni stazione di servizio è dotata di un parco veicoli elettrici a noleggio. Ogni veicolo è contraddistinto dall’autonomia data da una carica delle batterie, espressa in chilometri, da un numero intero positivo. Il parco veicoli di una singola stazione comprende al più 512 veicoli. Presa a noleggio un’auto da una stazione s, è possibile raggiungere tutte quelle la cui distanza da s è minore o uguale all’autonomia dell’automobile.
